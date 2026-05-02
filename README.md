@@ -17,8 +17,6 @@
 
 </div>
 
-
-
 ---
 
 <h2 align="center">😄 About Me</h2>
@@ -40,32 +38,42 @@ Still learning and building things along the way 🚀
 
 ---
 
-## 🛠️ Languages & Tools
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-<div align="center">
+<marquee behavior="alternate" scrollamount="6">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,git,linux,docker,mysql,postgres,mongodb,aws,opencv,pytorch,tensorflow" />
+<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="35"/></a>&nbsp;&nbsp;
+<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="35"/></a>
 
-</div>
+</marquee>
 
 ---
 
-## 📊 Stats
+<h2 align="center">📊 Stats</h2>
 
-<table>
-<tr>
-<td>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KModel212&show_icons=true&theme=tokyonight" width="95%"/>
+</p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KModel212&show_icons=true&theme=tokyonight"/>
-
-</td>
-<td>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KModel212&theme=tokyonight"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KModel212&theme=tokyonight" width="95%"/>
+</p>
 
 ---
 
@@ -79,7 +87,7 @@ Still learning and building things along the way 🚀
 
 ---
 
-## 👨‍💻 Developer Life
+<h2 align="center">👨‍💻 Developer Life</h2>
 
 ```cpp
 while(alive) {
