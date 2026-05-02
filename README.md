@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋 I'm Kaokanya</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Kaokanya;Computer+Engineering+Student;AI+%2F+Data+Enthusiast+🤖;I+love+coding+%F0%9F%92%BB&center=true&width=500&height=50&color=FF69B4&vCenter=true&size=22">
+</p>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhyYW95dTZzbng3Z3liMG9lbGJuZXdvdWtzdXB6dzFnc2J0M24xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
