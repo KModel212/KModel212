@@ -1,7 +1,9 @@
-## 👋 Hi, I'm Kaokanya
+<h1 align="center">Hi 👋 I'm Kaokanya</h1>
 
-🎓 Computer Engineering @ Chulalongkorn University  
-🤖 Super AI Engineer SS6 | Pangpuriye  
+<p align="center">
+🎓 Computer Engineering @ Chulalongkorn University <br>
+🤖 Super AI Engineer SS6 | Pangpuriye
+</p>
 
 ---
 
@@ -21,7 +23,7 @@ Still learning and building things along the way 💻
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
   <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" style="margin:5px"/></a>
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" style="margin:5px"/></a>
   <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" style="margin:5px"/></a>
@@ -44,10 +46,22 @@ Still learning and building things along the way 💻
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KModel212&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KModel212&theme=tokyonight" height="150"/>
+</p>
+
+---
+
 ### 👨‍💻 Developer Life
+
 ```cpp
 while(alive) {
     code();
     sleep();
     debug();
 }
+
+<p align="center"> ⭐ Keep building, keep learning 🚀 </p> ```
