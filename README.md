@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Kaokanya</h1>
 
 <p align="center">
-🎓 Computer Engineering @ Chulalongkorn University <br>
-🤖 Super AI Engineer SS6 | Pangpuriye
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhyYW95dTZzbng3Z3liMG9lbGJuZXdvdWtzdXB6dzFnc2J0M24xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+🎓 Computer Engineering @ Chulalongkorn University <br>
+🤖 Super AI Engineer SS6 | Pangpuriye
 </p>
 
 ---
