@@ -49,7 +49,7 @@ Still learning and building things along the way 💻
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KModel212&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KModel212&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KModel212&theme=tokyonight" height="150"/>
 </p>
 
@@ -63,5 +63,6 @@ while(alive) {
     sleep();
     debug();
 }
+```
 
-<p align="center"> ⭐ Keep building, keep learning 🚀 </p> ```
+<p align="center"> ⭐ Keep building, keep learning 🚀 </p>
