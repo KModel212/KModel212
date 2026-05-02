@@ -17,29 +17,26 @@
 
 </div>
 
+
+
 ---
 
-## 🧾 About & Interests
+<h2 align="center">😄 About Me</h2>
 
-<table>
-<tr>
-<td width="50%">
-
-### 😄 About Me
-Hey! I like coding, fixing bugs, and sometimes creating new ones 💻  
+<p align="center">
+Hey! I like coding, fixing bugs, and sometimes creating new ones 💻 <br>
 Still learning and building things along the way 🚀
+</p>
 
-</td>
-<td width="50%">
+---
 
-### 🧠 Interests
-- 🤖 AI / Machine Learning  
-- 📊 Data Engineering  
-- 🎮 Game Development  
+<h2 align="center">🧠 Interests</h2>
 
-</td>
-</tr>
-</table>
+<p align="center">
+🤖 AI / Machine Learning <br>
+📊 Data Engineering <br>
+🎮 Game Development
+</p>
 
 ---
 
