@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi, I'm Kaokanya
 
-<!--
-**KModel212/KModel212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering @ Chulalongkorn University  
+🤖 Super AI Engineer SS6 | Pangpuriye
 
-Here are some ideas to get you started:
+## 😄 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey! I like coding, fixing bugs, and sometimes creating new ones  
+Still learning and building things along the way 💻
+
+### 🧠 Interests
+- 🤖 AI / Machine Learning  
+- 📊 Data Engineer
+- 🎮 Game Development  
+
+### 🛠️ Languages & Tools
+- C++  
+- Python
+- Java
+- Git  
+- PostgreSQL
+- MongoDB
+
+### 👨‍💻 Developer Life
+while(alive) {
+    code();
+    sleep();
+    debug();
+}
