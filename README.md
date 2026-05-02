@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Kaokanya;Computer+Engineering+Student;AI+%2F+Data+Enthusiast+🤖;I+love+coding+%F0%9F%92%BB&center=true&width=500&height=60&color=0D1117&vCenter=true&size=28">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Kaokanya;Computer+Engineering+Student;AI+%2F+Data+Enthusiast+🤖;I+love+coding+%F0%9F%92%BB&center=true&width=550&height=70&color=FFFFFF&vCenter=true&size=32">
 </p>
 
 <p align="center">
