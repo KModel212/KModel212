@@ -77,6 +77,8 @@ Still learning and building things along the way 🚀
   📧 <a href="mailto:kkaokanya@gmail.com">kkaokanya@gmail.com</a>
 </p>
 
+---
+
 ## 👨‍💻 Developer Life
 
 ```cpp
