@@ -75,6 +75,11 @@ Still learning and building things along the way 🚀
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KModel212&theme=tokyonight" width="95%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KModel212&layout=compact&theme=tokyonight" width="95%"/>
+</p>
+
+
 ---
 
 <h2 align="center">📫 Connect with Me</h2>
