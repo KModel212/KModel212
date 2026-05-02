@@ -69,6 +69,14 @@ Still learning and building things along the way 🚀
 
 ---
 
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=discord,gmail" /><br><br>
+  💬 <b>9sep_</b><br>
+  📧 <a href="mailto:kkaokanya@gmail.com">kkaokanya@gmail.com</a>
+</p>
+
 ## 👨‍💻 Developer Life
 
 ```cpp
