@@ -32,8 +32,8 @@ Still learning and building things along the way 🚀
 
 <p align="center">
 🤖 AI / Machine Learning <br>
-📊 Data Engineering <br>
-🎮 Game Development
+👁️ Computer Vision <br>
+🧠 Agentic AI
 </p>
 
 ---
@@ -85,7 +85,19 @@ Still learning and building things along the way 🚀
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,gmail" /><br><br>
+  <a href="https://www.linkedin.com/in/kaokanya-kokirdpanich-451218173/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="mailto:kkaokanya@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  💼 <a href="https://www.linkedin.com/in/kaokanya-kokirdpanich-451218173/">kaokanyakokirdpanich</a><br>
   💬 <b>9sep_</b><br>
   📧 <a href="mailto:kkaokanya@gmail.com">kkaokanya@gmail.com</a>
 </p>
