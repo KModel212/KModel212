@@ -28,7 +28,7 @@ Still learning and building things along the way 🚀
 
 ---
 
-<h2 align="center">🧠 Interests</h2>
+<h2 align="center">📚 Interests</h2>
 
 <p align="center">
 🤖 AI / Machine Learning <br>
