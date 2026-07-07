@@ -32,7 +32,7 @@ Still learning and building things along the way 🚀
 
 <p align="center">
 🤖 AI / Machine Learning <br>
-👁️ Computer Vision <br>
+📈 Data Science <br>
 🧠 Agentic AI
 </p>
 
