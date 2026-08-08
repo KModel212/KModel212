@@ -22,18 +22,19 @@
 <h2 align="center">😄 About Me</h2>
 
 <p align="center">
-Hey! I like coding, fixing bugs, and sometimes creating new ones 💻 <br>
-Still learning and building things along the way 🚀
+Computer Engineering student at Chulalongkorn University with a strong interest in Artificial Intelligence and Machine Learning.
+Passionate about building practical AI solutions, exploring new technologies, and continuously improving through hands-on experience. 🚀
 </p>
 
 ---
 
-<h2 align="center">📚 Interests</h2>
+<h2 align="center">📚 🌱 Currently Exploring</h2>
 
 <p align="center">
-🤖 AI / Machine Learning <br>
-📈 Data Science <br>
-🧠 Agentic AI
+🧠 Agentic AI & LLM Systems <br>
+👁️ Computer Vision & Digital Image Processing <br>
+🔬 AI Research<br>
+📊 Machine Learning & Data Science <br>
 </p>
 
 ---
