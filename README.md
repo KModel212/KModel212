@@ -53,15 +53,6 @@ Includes score fusion, reranking, Thai tokenization, LLM reasoning, and detectio
 
 ---
 
-### 🤖 [AI-Powered Customer Insight Engine](https://github.com/KModel212/AI-Powered-Customer-Insight-Engine)
-
-End-to-end NLP and lightweight RAG pipeline that transforms large-scale customer reviews into actionable business insights.
-
-Combines sentiment analysis, SentenceTransformers, FAISS semantic retrieval, and LLM-based insight generation to produce structured executive reports.
-
-`LLM` `RAG` `FAISS` `NLP` `SentenceTransformers` `Python`
-
----
 
 ### 🛍️ [Personalized Loyalty AI](https://github.com/KModel212/PERSONALIZED-LOYALTY-AI)
 
