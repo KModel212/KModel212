@@ -31,18 +31,45 @@ I enjoy turning ambiguous problems into working prototypes, exploring new techno
 and learning through hands-on projects, research, and hackathons. 🚀
 </p>
 
----
-
 <h2 align="center">🚀 Featured Projects</h2>
 
-### 🛍️ Personalized Loyalty AI
+### 🛡️ [LLM Trustworthiness — AI Thailand Benchmark 2026](https://github.com/KModel212/llm-trustworthiness)
 
-Customer intelligence system for retail CRM using **RFM analysis, customer segmentation, churn prediction, and association rule mining** to better understand customer behavior and support personalized engagement.
+Offline, high-throughput LLM inference and safety pipeline designed for the **AI Thailand Benchmark 2026 — LLM Trustworthiness Challenge**.
 
-`Python` `Scikit-learn` `Pandas` `Machine Learning` `Customer Analytics`
+Built a multi-stage guardrail system for prompt injection, jailbreak detection, intent classification, risk scoring, and response validation, with GPU-accelerated inference using vLLM.
+
+`LLM` `Qwen3` `vLLM` `AI Safety` `Guardrails` `Docker`
 
 ---
 
+### 🧠 [Thai RAG for FahMai QA](https://github.com/KModel212/RAG-FAHMAI-SUPERAI)
+
+Thai Retrieval-Augmented Generation system for knowledge-based multiple-choice QA using **hybrid retrieval with BM25 and BGE-M3 embeddings**.
+
+Includes score fusion, reranking, Thai tokenization, LLM reasoning, and detection of missing or irrelevant information.
+
+`RAG` `ThaiLLM` `BM25` `BGE-M3` `NLP` `PyThaiNLP`
+
+---
+
+### 🤖 [AI-Powered Customer Insight Engine](https://github.com/KModel212/AI-Powered-Customer-Insight-Engine)
+
+End-to-end NLP and lightweight RAG pipeline that transforms large-scale customer reviews into actionable business insights.
+
+Combines sentiment analysis, SentenceTransformers, FAISS semantic retrieval, and LLM-based insight generation to produce structured executive reports.
+
+`LLM` `RAG` `FAISS` `NLP` `SentenceTransformers` `Python`
+
+---
+
+### 🛍️ [Personalized Loyalty AI](https://github.com/KModel212/PERSONALIZED-LOYALTY-AI)
+
+End-to-end retail customer intelligence system that transforms transaction data into personalized CRM decisions using customer segmentation, churn prediction, and recommendation techniques.
+
+`Python` `Scikit-learn` `Customer Segmentation` `Churn Prediction` `Machine Learning`
+
+---
 
 ### 🎵 แทนใจ — AI Music Emotion Platform
 
@@ -53,6 +80,13 @@ Built as a full-stack application with vector search for intelligent music retri
 `Next.js` `FastAPI` `PostgreSQL` `pgvector` `AI`
 
 ---
+
+### 🎨 [WIGGLY PAINT](https://github.com/KModel212/WIGGLY-PAINT)
+
+JavaFX pixel-art drawing application built for Programming Methodology, demonstrating object-oriented programming and desktop application development.
+
+`Java` `JavaFX` `OOP`
+
 
 <h2 align="center">💼 Experience & Programs</h2>
 
