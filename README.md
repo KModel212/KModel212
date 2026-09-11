@@ -3,7 +3,7 @@
 <h1>Hi 👋 I'm Kaokanya</h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;AI+%2F+Machine+Learning+Enthusiast;Turning+ideas+into+code;Always+learning%2C+always+building&center=true&width=500&height=60&color=FFFFFF&vCenter=true&size=28">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;AI+%2F+Machine+Learning+Enthusiast;Turning+ideas+into+working+AI;Always+learning%2C+always+building&center=true&width=550&height=60&color=FFFFFF&vCenter=true&size=28">
 </p>
 
 <p>
@@ -12,7 +12,8 @@
 
 <p>
 🎓 Computer Engineering @ Chulalongkorn University <br>
-🤖 Super AI Engineer SS6 🥉| Pangpuriye
+🤖 Super AI Engineer Program SS6 — Bronze Medalist 🥉 <br>
+💡 AI / ML • LLM • Computer Vision • Intelligent Systems
 </p>
 
 </div>
@@ -22,64 +23,125 @@
 <h2 align="center">😄 About Me</h2>
 
 <p align="center">
-Computer Engineering student at Chulalongkorn University with a strong interest in Artificial Intelligence and Machine Learning.
-Passionate about building practical AI solutions, exploring new technologies, and continuously improving through hands-on experience. 🚀
+Computer Engineering student at Chulalongkorn University interested in building
+AI systems that go beyond notebooks — from LLM applications and computer vision
+to intelligent systems designed for real-world use.
+<br><br>
+I enjoy turning ambiguous problems into working prototypes, exploring new technologies,
+and learning through hands-on projects, research, and hackathons. 🚀
 </p>
 
 ---
 
-<h2 align="center">📚 🌱 Currently Exploring</h2>
+<h2 align="center">🚀 Featured Projects</h2>
+
+### 🛍️ Personalized Loyalty AI
+
+Customer intelligence system for retail CRM using **RFM analysis, customer segmentation, churn prediction, and association rule mining** to better understand customer behavior and support personalized engagement.
+
+`Python` `Scikit-learn` `Pandas` `Machine Learning` `Customer Analytics`
+
+---
+
+
+### 🎵 แทนใจ — AI Music Emotion Platform
+
+AI-powered Thai music platform designed to discover songs based on **emotion and semantic similarity**.
+
+Built as a full-stack application with vector search for intelligent music retrieval.
+
+`Next.js` `FastAPI` `PostgreSQL` `pgvector` `AI`
+
+---
+
+<h2 align="center">💼 Experience & Programs</h2>
+
+### 🤖 Super AI Engineer Program SS6 — AIAT
+
+* Advanced AI engineering program covering practical machine learning and AI development
+* Worked on multiple AI challenges, projects, and hackathons
+* 🥉 Bronze Medalist
+
+### 🤖 Humanoid AI Program — True Innovation Center
+
+* Exploring AI for humanoid service robots
+* Working with concepts in **NLP, human-robot interaction, intelligent service systems, and robot behavior**
+* Contributing toward an integrated humanoid service assistant prototype
+---
+
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+
+🥉 **Bronze Medalist — Super AI Engineer Program SS6**
+
+🥈 **2nd Runner-Up — NT Edge AI Traffic Challenge**
+
+🥇 **1st Place — Hack Case 101**
+
+🥉 **3rd Place — Kiro Workshop Demo**
+
+</div>
+
+---
+
+<h2 align="center">🌱 Currently Exploring</h2>
 
 <p align="center">
-🧠 Agentic AI & LLM Systems <br>
-👁️ Computer Vision & Digital Image Processing <br>
-🔬 AI Research<br>
-📊 Machine Learning & Data Science <br>
+🧠 LLM Systems, RAG & Agentic AI <br>
+👁️ Computer Vision & Multimodal AI <br>
+🤖 Intelligent & Embodied AI Systems <br>
+🔬 Applied AI Research
 </p>
 
 ---
 
-<h2 align="center">🛠️ Languages & Tools</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<marquee behavior="alternate" scrollamount="6">
+<h3 align="center">💻 Languages</h3>
 
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="35"/></a>&nbsp;&nbsp;
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="35"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+</p>
 
-</marquee>
+<h3 align="center">🧠 AI / Machine Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+<p align="center">
+  Scikit-learn • Pandas • NumPy • Machine Learning • Deep Learning
+</p>
+
+<h3 align="center">⚙️ Backend & Data</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,mysql" />
+</p>
+
+<p align="center">
+  PostgreSQL • pgvector • Vector Search • REST APIs
+</p>
+
+<h3 align="center">🛠️ Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,postman,figma" />
+</p>
 
 ---
 
-<h2 align="center">📊 Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KModel212&show_icons=true&theme=tokyonight" width="95%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KModel212&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KModel212&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KModel212&theme=tokyonight" width="95%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KModel212&theme=tokyonight" width="70%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KModel212&layout=compact&theme=tokyonight" width="95%"/>
-</p>
-
 
 ---
 
@@ -89,17 +151,15 @@ Passionate about building practical AI solutions, exploring new technologies, an
   <a href="https://www.linkedin.com/in/kaokanya-kokirdpanich-451218173/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
+  &nbsp;&nbsp;
   <a href="mailto:kkaokanya@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/kaokanya-kokirdpanich-451218173/">kaokanyakokirdpanich</a><br>
-  💬 <b>9sep_</b><br>
+  💼 <a href="https://www.linkedin.com/in/kaokanya-kokirdpanich-451218173/">LinkedIn</a><br>
+  💬 Discord: <b>9sep_</b><br>
   📧 <a href="mailto:kkaokanya@gmail.com">kkaokanya@gmail.com</a>
 </p>
 
@@ -107,12 +167,17 @@ Passionate about building practical AI solutions, exploring new technologies, an
 
 <h2 align="center">👨‍💻 Developer Life</h2>
 
-```cpp
-while(alive) {
-    code();
-    sleep();
-    debug();
-}
+```python
+while True:
+    idea = think()
+    prototype = build(idea)
+
+    if prototype.works():
+        ship(prototype)
+    else:
+        debug()
 ```
 
-<p align="center"> ⭐ Keep building, keep learning 🚀 </p>
+<p align="center">
+⭐ Keep building. Keep experimenting. Keep learning. 🚀
+</p>
