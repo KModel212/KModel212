@@ -12,7 +12,7 @@
 
 <p>
 🎓 Computer Engineering @ Chulalongkorn University <br>
-🤖 Super AI Engineer SS6 | Pangpuriye
+🤖 Super AI Engineer SS6 🥉| Pangpuriye
 </p>
 
 </div>
