@@ -180,22 +180,29 @@ JavaFX pixel-art drawing application built for Programming Methodology, demonstr
 </p>
 
 ---
-
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaokanya-kokirdpanich-451218173/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
   &nbsp;&nbsp;
+  
   <a href="mailto:kkaokanya@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://discord.com/users/9sep_">
+    <img src="https://skillicons.dev/icons?i=discord" width="45" />
   </a>
 </p>
 
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/kaokanya-kokirdpanich-451218173/">LinkedIn</a><br>
-  💬 Discord: <b>9sep_</b><br>
+  💼 <a href="https://www.linkedin.com/in/kaokanya-kokirdpanich-451218173/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  💬 Discord: <b>9sep_</b>
+  &nbsp;•&nbsp;
   📧 <a href="mailto:kkaokanya@gmail.com">kkaokanya@gmail.com</a>
 </p>
 
