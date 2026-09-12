@@ -71,7 +71,6 @@ Built as a full-stack application with vector search for intelligent music retri
 
 `Next.js` `FastAPI` `PostgreSQL` `pgvector` `AI`
 
----
 
 ### 🎨 [WIGGLY PAINT](https://github.com/KModel212/WIGGLY-PAINT)
 
