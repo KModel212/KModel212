@@ -3,17 +3,22 @@
 <h1>Hi 👋 I'm Kaokanya</h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;AI+%2F+Machine+Learning+Enthusiast;Turning+ideas+into+working+AI;Always+learning%2C+always+building&center=true&width=550&height=60&color=FFFFFF&vCenter=true&size=28">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;AI+%2F+Machine+Learning+Enthusiast;Turning+ideas+into+working+AI;Always+learning%2C+always+building&center=true&width=550&height=60&color=FFFFFF&vCenter=true&size=28"
+  >
 </p>
 
 <p>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhyYW95dTZzbng3Z3liMG9lbGJuZXdvdWtzdXB6dzFnc2J0M24xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="180"/>
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhyYW95dTZzbng3Z3liMG9lbGJuZXdvdWtzdXB6dzFnc2J0M24xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"
+    width="180"
+  />
 </p>
 
 <p>
-🎓 Computer Engineering @ Chulalongkorn University <br>
-🤖 Super AI Engineer Program SS6 — Bronze Medalist 🥉 <br>
-💡 AI / ML • LLM • Computer Vision • Intelligent Systems
+  🎓 Computer Engineering @ Chulalongkorn University <br>
+  🤖 Super AI Engineer Program SS6 — Bronze Medalist 🥉 <br>
+  💡 AI / ML • LLM • Computer Vision • Intelligent Systems
 </p>
 
 </div>
@@ -23,13 +28,15 @@
 <h2 align="center">😄 About Me</h2>
 
 <p align="center">
-Computer Engineering student at Chulalongkorn University interested in building
-AI systems that go beyond notebooks — from LLM applications and computer vision
-to intelligent systems designed for real-world use.
-<br><br>
-I enjoy turning ambiguous problems into working prototypes, exploring new technologies,
-and learning through hands-on projects, research, and hackathons. 🚀
+  Computer Engineering student at Chulalongkorn University interested in building
+  AI systems that go beyond notebooks — from LLM applications and computer vision
+  to intelligent systems designed for real-world use.
+  <br><br>
+  I enjoy turning ambiguous problems into working prototypes, exploring new technologies,
+  and learning through hands-on projects, research, and hackathons. 🚀
 </p>
+
+---
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -41,7 +48,6 @@ Built a multi-stage guardrail system for prompt injection, jailbreak detection, 
 
 `LLM` `Qwen3` `vLLM` `AI Safety` `Guardrails` `Docker`
 
----
 
 ### 🧠 [Thai RAG for FahMai QA](https://github.com/KModel212/RAG-FAHMAI-SUPERAI)
 
@@ -51,16 +57,11 @@ Includes score fusion, reranking, Thai tokenization, LLM reasoning, and detectio
 
 `RAG` `ThaiLLM` `BM25` `BGE-M3` `NLP` `PyThaiNLP`
 
----
-
-
 ### 🛍️ [Personalized Loyalty AI](https://github.com/KModel212/PERSONALIZED-LOYALTY-AI)
 
 End-to-end retail customer intelligence system that transforms transaction data into personalized CRM decisions using customer segmentation, churn prediction, and recommendation techniques.
 
 `Python` `Scikit-learn` `Customer Segmentation` `Churn Prediction` `Machine Learning`
-
----
 
 ### 🎵 แทนใจ — AI Music Emotion Platform
 
@@ -78,6 +79,7 @@ JavaFX pixel-art drawing application built for Programming Methodology, demonstr
 
 `Java` `JavaFX` `OOP`
 
+---
 
 <h2 align="center">💼 Experience & Programs</h2>
 
@@ -92,6 +94,7 @@ JavaFX pixel-art drawing application built for Programming Methodology, demonstr
 * Exploring AI for humanoid service robots
 * Working with concepts in **NLP, human-robot interaction, intelligent service systems, and robot behavior**
 * Contributing toward an integrated humanoid service assistant prototype
+
 ---
 
 <h2 align="center">🏆 Achievements</h2>
@@ -113,10 +116,10 @@ JavaFX pixel-art drawing application built for Programming Methodology, demonstr
 <h2 align="center">🌱 Currently Exploring</h2>
 
 <p align="center">
-🧠 LLM Systems, RAG & Agentic AI <br>
-👁️ Computer Vision & Multimodal AI <br>
-🤖 Intelligent & Embodied AI Systems <br>
-🔬 Applied AI Research
+  🧠 LLM Systems, RAG & Agentic AI <br>
+  👁️ Computer Vision & Multimodal AI <br>
+  🤖 Intelligent & Embodied AI Systems <br>
+  🔬 Applied AI Research
 </p>
 
 ---
@@ -160,12 +163,21 @@ JavaFX pixel-art drawing application built for Programming Methodology, demonstr
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KModel212&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KModel212&layout=compact&theme=tokyonight" width="48%"/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=KModel212&show_icons=true&theme=tokyonight"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KModel212&layout=compact&theme=tokyonight"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KModel212&theme=tokyonight" width="70%"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KModel212&theme=tokyonight"
+    width="70%"
+  />
 </p>
 
 ---
@@ -204,5 +216,5 @@ while True:
 ```
 
 <p align="center">
-⭐ Keep building. Keep experimenting. Keep learning. 🚀
+  ⭐ Keep building. Keep experimenting. Keep learning. 🚀
 </p>
