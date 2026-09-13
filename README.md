@@ -81,24 +81,19 @@ JavaFX pixel-art drawing application built for Programming Methodology, demonstr
 ---
 <h2 align="center">💼 Experience & Programs</h2>
 
-🤖 Super AI Engineer Season 6 — AIAT
+🤖 Super AI Engineer Program Season 6 — AIAT
 
-* Selected to participate in an intensive AI engineering program organized by the Artificial Intelligence Association of Thailand (AIAT)
-* Developed practical experience across machine learning, deep learning, data processing, model evaluation, and AI system development
-* Worked on multiple hands-on assignments, AI challenges, hackathons, and real-world problem-solving projects
-* Gained experience transforming problem statements into complete AI pipelines, from data preparation and feature engineering to model development and evaluation
-* Participated in collaborative technical projects involving experimentation, implementation, and presentation of AI solutions
+* Intensive AI engineering program focused on machine learning, deep learning, and practical AI development
+* Built and evaluated AI solutions through hands-on projects, challenges, and hackathons
+* Gained experience across the AI development pipeline, from data preparation and modeling to evaluation and presentation
 * 🥉 Bronze Medalist — Super AI Engineer Season 6
 
 🤖 Humanoid AI Program — True Innovation Center
 
-* Participating in a collaborative humanoid AI development program focused on building intelligent service capabilities for humanoid robots
-* Working with the Unitree G1 humanoid robot and exploring how AI can enable natural and practical human-robot interaction
-* Focusing on Natural Language Processing (NLP) for service-oriented humanoid applications, including understanding user requests, dialogue interaction, and intelligent response generation
-* Exploring the integration of speech, language understanding, service logic, robot behavior, and safety-aware action planning
-* Contributing to the development of an integrated humanoid service system designed for real-world customer interaction scenarios
-* Collaborating with team members working across NLP, robot control, simulation, teleoperation, data collection, and upper-body reinforcement learning
-* Learning how AI components are connected with robotic systems to create coordinated perception, reasoning, communication, and physical interaction
+* Participating in a collaborative program focused on developing AI-powered humanoid service systems
+* Working with the Unitree G1 humanoid robot, with a focus on NLP and human-robot interaction
+* Exploring the integration of speech, language understanding, service logic, safety-aware behavior, and robot actions
+* Collaborating across NLP, robot control, simulation, teleoperation, and reinforcement learning to build an integrated humanoid service system
 
 ---
 
