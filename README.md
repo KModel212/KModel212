@@ -17,7 +17,7 @@
 
 <p>
   🎓 Computer Engineering @ Chulalongkorn University <br>
-  🤖 Super AI Engineer Program SS6 — Bronze Medalist 🥉 <br>
+  🤖 Super AI Engineer SS6 — Bronze Medalist 🥉 <br>
   💡 AI / ML • LLM • Computer Vision • Intelligent Systems
 </p>
 
@@ -79,20 +79,26 @@ JavaFX pixel-art drawing application built for Programming Methodology, demonstr
 `Java` `JavaFX` `OOP`
 
 ---
-
 <h2 align="center">💼 Experience & Programs</h2>
 
-### 🤖 Super AI Engineer Program SS6 — AIAT
+🤖 Super AI Engineer Season 6 — AIAT
 
-* Advanced AI engineering program covering practical machine learning and AI development
-* Worked on multiple AI challenges, projects, and hackathons
-* 🥉 Bronze Medalist
+* Selected to participate in an intensive AI engineering program organized by the Artificial Intelligence Association of Thailand (AIAT)
+* Developed practical experience across machine learning, deep learning, data processing, model evaluation, and AI system development
+* Worked on multiple hands-on assignments, AI challenges, hackathons, and real-world problem-solving projects
+* Gained experience transforming problem statements into complete AI pipelines, from data preparation and feature engineering to model development and evaluation
+* Participated in collaborative technical projects involving experimentation, implementation, and presentation of AI solutions
+* 🥉 Bronze Medalist — Super AI Engineer Season 6
 
-### 🤖 Humanoid AI Program — True Innovation Center
+🤖 Humanoid AI Program — True Innovation Center
 
-* Exploring AI for humanoid service robots
-* Working with concepts in **NLP, human-robot interaction, intelligent service systems, and robot behavior**
-* Contributing toward an integrated humanoid service assistant prototype
+* Participating in a collaborative humanoid AI development program focused on building intelligent service capabilities for humanoid robots
+* Working with the Unitree G1 humanoid robot and exploring how AI can enable natural and practical human-robot interaction
+* Focusing on Natural Language Processing (NLP) for service-oriented humanoid applications, including understanding user requests, dialogue interaction, and intelligent response generation
+* Exploring the integration of speech, language understanding, service logic, robot behavior, and safety-aware action planning
+* Contributing to the development of an integrated humanoid service system designed for real-world customer interaction scenarios
+* Collaborating with team members working across NLP, robot control, simulation, teleoperation, data collection, and upper-body reinforcement learning
+* Learning how AI components are connected with robotic systems to create coordinated perception, reasoning, communication, and physical interaction
 
 ---
 
