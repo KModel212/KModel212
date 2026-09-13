@@ -81,14 +81,14 @@ JavaFX pixel-art drawing application built for Programming Methodology, demonstr
 ---
 <h2 align="center">💼 Experience & Programs</h2>
 
-🤖 Super AI Engineer Program Season 6 — AIAT
+🤖 Super AI Engineer Season 6 — AIAT
 
 * Intensive AI engineering program focused on machine learning, deep learning, and practical AI development
 * Built and evaluated AI solutions through hands-on projects, challenges, and hackathons
 * Gained experience across the AI development pipeline, from data preparation and modeling to evaluation and presentation
 * 🥉 Bronze Medalist — Super AI Engineer Season 6
 
-🤖 Humanoid AI Program — True Innovation Center
+🤖 Humanoid AI Co-Build Program — True Innovation Center
 
 * Participating in a collaborative program focused on developing AI-powered humanoid service systems
 * Working with the Unitree G1 humanoid robot, with a focus on NLP and human-robot interaction
