@@ -17,7 +17,7 @@
 
 <p>
   🎓 Computer Engineering @ Chulalongkorn University <br>
-  🤖 Super AI Engineer SS6 — Bronze Medalist 🥉 <br>
+  🤖 Super AI Engineer Season 6 — Bronze Medalist 🥉 <br>
   💡 AI / ML • LLM • Computer Vision • Intelligent Systems
 </p>
 
